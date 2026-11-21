@@ -1,0 +1,14 @@
+{
+  "subject": "Physics",
+  "class": 10,
+  "chapter": "Electricity",
+  "concepts": [
+    "Electric Current",
+    "Voltage",
+    "Resistance",
+    "Ohm's Law",
+    "Series Circuits",
+    "Parallel Circuits",
+    "Electric Power"
+  ]
+}
